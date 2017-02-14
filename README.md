@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/g2wXHhV' title='Video Walkthrough' width='' alt='Video Walkthrough of ToDO App' />
+<img src='http://i.imgur.com/g2wXHhV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough of ToDO App' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
